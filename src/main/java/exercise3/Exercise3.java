@@ -3,6 +3,7 @@ package exercise3;
 public class Exercise3 {
 	static ConvexPolygon buildConvexPolygon(Point[] vertices) {
 		// TODO build a ConvexPolygon
+		new ConvexPolygon(vertices);
 		return null;
 	}
 

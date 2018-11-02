@@ -1,4 +1,9 @@
 package exercise3;
 
-public class Rectangle {
+public class Rectangle extends ConvexPolygon {
+
+	public ConvexPolygon
+
 }
+
+
